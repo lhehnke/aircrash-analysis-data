@@ -5,7 +5,7 @@ Blog post using the data: https://correlaid.org/blog/posts/point-pattern-analysi
 
 ## Description: analysis
 
-Contains the R script for conducting a point pattern analysis and mapping the accidents.
+Contains the R script for mapping the accidents and conducting a point pattern analysis.
 
 
 ## Description: data
