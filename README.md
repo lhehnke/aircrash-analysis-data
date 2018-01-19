@@ -10,4 +10,6 @@ Contains the R script for conducting a point pattern analysis and mapping the ac
 
 ## Description: data
 
-Contains the data for the analysis. Source: https://www.ntsb.gov/_layouts/ntsb.aviation/index.aspx (NTSB Aviation Accident Database)
+Contains the data for the analysis. 
+
+Source: https://www.ntsb.gov/_layouts/ntsb.aviation/index.aspx (NTSB Aviation Accident Database)
