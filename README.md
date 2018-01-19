@@ -1,5 +1,5 @@
 # aircrash-analysis-data
-Replication data for spatial analysis of airplane accidents in Florida (2014)
+Replication data for point pattern analysis of airplane accidents in Florida (2014)
 
 Blog post using the data: https://correlaid.org/blog/posts/point-pattern-analysis 
 
