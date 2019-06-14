@@ -1,5 +1,5 @@
 # aircrash-analysis-data
-Replication materials for this [blog post](https://correlaid.org/blog/point-pattern-analysis/) demonstrating how to conduct a point pattern analysis of airplane accidents in Florida 2014.
+Replication materials for this [blog post](https://correlaid.org/blog/point-pattern-analysis/) demonstrating how to conduct a point pattern analysis of airplane accidents in Florida (2014).
 
 ## Description: analysis
 
