@@ -1,7 +1,5 @@
 # aircrash-analysis-data
-Replication data for point pattern analysis of airplane accidents in Florida (2014)
-
-Blog post using the data: https://correlaid.org/blog/posts/point-pattern-analysis 
+Replication materials for this [blog post](https://correlaid.org/blog/point-pattern-analysis/) demonstrating how to conduct a point pattern analysis of airplane accidents in Florida 2014.
 
 ## Description: analysis
 
@@ -12,4 +10,4 @@ Contains the R script for mapping the accidents and conducting a point pattern a
 
 Contains the data for the analysis. 
 
-Source: https://www.ntsb.gov/_layouts/ntsb.aviation/index.aspx (NTSB Aviation Accident Database)
+Source: [NTSB Aviation Accident Database](https://www.ntsb.gov/_layouts/ntsb.aviation/index.aspx)
